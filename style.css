@@ -25,7 +25,7 @@ body {
   .header {
     text-align: center;
   }
-  
+
 }
 
 .app-wrapper {
@@ -160,7 +160,7 @@ button.task__delete-button img:hover {
 
 /* Completed */
 ul#completed-tasks label {
-  text-decoration: line-through color: #888;
+  text-decoration: line-through #888;
 }
 
 /* Edit Task */
